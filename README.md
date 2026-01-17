@@ -3,7 +3,7 @@ PCAP – Frontend Web Design Portfolio
 This repository showcases a collection of frontend web design projects developed using modern web technologies.
 It demonstrates practical skills in building responsive, user-friendly, and maintainable static web pages suitable for real-world business and personal applications.
 
-🌐 Live Portfolio
+🌐 Live Website
 
 🔗 https://leeeeex.github.io/pcap/
 
