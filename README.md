@@ -1,41 +1,42 @@
-PCAP – Frontend Web Design Portfolio
+# PCAP – Frontend Web Design Portfolio
 
-This repository showcases a collection of frontend web design projects developed using modern web technologies.
-It demonstrates practical skills in building responsive, user-friendly, and maintainable static web pages suitable for real-world business and personal applications.
+This repository showcases a collection of frontend web design projects built using modern web technologies.
+It demonstrates the ability to create **responsive, structured, and maintainable static web pages** suitable for real-world use and portfolio review.
 
-🌐 Live Website
+---
 
-🔗 https://leeeeex.github.io/pcap/
+## 🌐 Live Website
 
-All projects are deployed using GitHub Pages and can be viewed directly in the browser.
+🔗 [https://leeeeex.github.io/pcap/](https://leeeeex.github.io/pcap/)
 
-🧩 What This Portfolio Demonstrates
+All projects are deployed using **GitHub Pages** and can be viewed directly in the browser.
 
-Responsive layouts using Bootstrap 5
+---
 
-Clean, semantic HTML5 structure
+## 🧩 Skills Demonstrated
 
-Custom styling with CSS3
+* Semantic HTML5 structure
+* Responsive layouts with **Bootstrap 5**
+* Custom styling using **CSS3**
+* Client-side interactivity with **JavaScript (ES6)**
+* Proper file organization and relative path handling
+* Static site deployment with **GitHub Pages**
 
-Interactive behavior with JavaScript
+---
 
-Proper file organization and relative path management
+## 🛠 Tech Stack
 
-Deployment and version control using GitHub
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Bootstrap 5
+* GitHub Pages
 
-🛠 Tech Stack
+---
 
-HTML5
+## 📁 Project Structure
 
-CSS3
-
-JavaScript (ES6)
-
-Bootstrap 5
-
-GitHub Pages
-
-📁 Project Structure
+<pre>
 pcap/
 ├── index.html
 ├── css/
@@ -46,27 +47,35 @@ pcap/
 │   └── script.js
 └── assets/
     └── images/
+</pre>
 
-The structure follows best practices to ensure scalability and compatibility with static hosting platforms.
+This structure follows frontend best practices by separating layout, styling, scripts, and static assets.
+It is fully compatible with static hosting platforms such as GitHub Pages.
 
-🚀 Local Setup
+---
+
+## 🚀 Local Setup
 
 To view or modify the project locally:
 
+```bash
 git clone https://github.com/Leeeeex/pcap.git
+```
 
-Then open index.html in a browser or use VS Code Live Server for development.
+Then open `index.html` in your browser or use **VS Code Live Server** for development.
 
-🎯 Purpose
+---
+
+## 🎯 Purpose
 
 This portfolio is intended to:
 
-Showcase frontend development capabilities
+* Demonstrate frontend development fundamentals
+* Showcase clean UI implementation
+* Provide recruiters and hiring managers with a live, working example of web design skills
 
-Demonstrate clean UI implementation
+---
 
-Serve as a reference for recruiters and hiring managers reviewing frontend skills
-
-📄 License
+## 📄 License
 
 This project is for portfolio and demonstration purposes.
